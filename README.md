@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👨‍💻 Breno Rodrigues
 
-<!--
-**BrenoRodrigues05/BrenoRodrigues05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor **Full Stack** com forte foco em backend utilizando **C# e ASP.NET Core**, construindo APIs REST escaláveis, organizadas e seguindo boas práticas de arquitetura.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔙 Backend
+
+- ✅ ASP.NET Core Web API  
+- ✅ Entity Framework Core  
+- ✅ Repository Pattern & Unit of Work  
+- ✅ Controllers Genéricos  
+- ✅ DTOs com AutoMapper  
+- ✅ Paginação assíncrona reutilizável  
+- ✅ Arquitetura em camadas e separação de responsabilidades  
+- ✅ Node.js  
+
+---
+
+### 🎨 Front-end
+
+- ⚛️ React  
+- ⚡ Vite  
+- 🟨 JavaScript (ES6+)  
+- 🌐 HTML5  
+- 🎨 CSS3  
+- 🔗 Integração e consumo de APIs REST  
+
+---
+
+### 🛠️ Ferramentas & Outros Conhecimentos
+
+- 🐳 Docker (containerização de aplicações)  
+- 🗄️ Bancos de dados relacionais  
+- 🔧 Git e versionamento de código  
+
+🎯 Buscando oportunidades como Desenvolvedor Full Stack, com foco em evolução contínua, boas práticas e desenvolvimento de soluções escaláveis.
