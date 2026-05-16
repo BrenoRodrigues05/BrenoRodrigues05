@@ -96,10 +96,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 <div align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=BrenoRodrigues05&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrenoRodrigues05&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRodrigues05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrenoRodrigues05&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -110,7 +110,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRodrigu
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=BrenoRodrigues05&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=BrenoRodrigues05&theme=tokyonight&hide_border=true"/>
 
 </div>
 
