@@ -91,20 +91,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrenoRodrigues05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrenoRodrigues05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 Sequência de Contribuições
 
 <div align="center">
